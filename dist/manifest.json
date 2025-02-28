@@ -1,0 +1,55 @@
+{
+  "assets/icons/eye_c.png": {
+    "file": "assets/eye_c-B6e0CkCd.png",
+    "src": "assets/icons/eye_c.png"
+  },
+  "assets/icons/eye_o.png": {
+    "file": "assets/eye_o-Crycs4Tu.png",
+    "src": "assets/icons/eye_o.png"
+  },
+  "assets/images/duster.png": {
+    "file": "assets/duster-z63tSNzj.png",
+    "src": "assets/images/duster.png"
+  },
+  "assets/images/ogimage.png": {
+    "file": "assets/ogimage-Dbx_CLBN.png",
+    "src": "assets/images/ogimage.png"
+  },
+  "assets/images/worker.mp4": {
+    "file": "assets/worker-tq9r6dY8.mp4",
+    "src": "assets/images/worker.mp4"
+  },
+  "assets/images/worker.png": {
+    "file": "assets/worker-CvaKpLuz.png",
+    "src": "assets/images/worker.png"
+  },
+  "assets/images/worker/worker_b_1080p.mp4": {
+    "file": "assets/worker_b_1080p-YCOIbm2J.mp4",
+    "src": "assets/images/worker/worker_b_1080p.mp4"
+  },
+  "assets/images/worker/worker_b_720p.mp4": {
+    "file": "assets/worker_b_720p-C768CKGf.mp4",
+    "src": "assets/images/worker/worker_b_720p.mp4"
+  },
+  "assets/images/worker/worker_frame1.jpg": {
+    "file": "assets/worker_frame1-BXKriaDj.jpg",
+    "src": "assets/images/worker/worker_frame1.jpg"
+  },
+  "src/index.js": {
+    "file": "assets/index-DU6BaIf9.js",
+    "name": "index",
+    "src": "src/index.js",
+    "isEntry": true
+  },
+  "src/styles/index.scss": {
+    "file": "assets/index-BBGFGFcH.css",
+    "src": "src/styles/index.scss",
+    "isEntry": true
+  },
+  "src/styles/panel.css": {
+    "file": "assets/panel-l0sNRNKZ.js",
+    "name": "panel",
+    "src": "src/styles/panel.css",
+    "isEntry": true
+  }
+}
